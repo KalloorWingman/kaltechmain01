@@ -33,7 +33,7 @@
         {
             "label": "News",
             "altText": "Technology News",
-            "url": "/careers",
+            "url": "/news",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
