@@ -22,7 +22,7 @@
         },
         {
             "label": "About Us",
-            "altText": "Blog",
+            "altText": "About katechtalk",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
