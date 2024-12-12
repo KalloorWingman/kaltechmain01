@@ -91,6 +91,9 @@
         "self": {
             "padding": [
                 "pr-0"
+            ],
+            "margin": [
+                "mr-9"
             ]
         }
     }
