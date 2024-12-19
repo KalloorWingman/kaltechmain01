@@ -32,7 +32,7 @@
             "altText": "Technology Topics and News",
             "links": [
                 {
-                    "label": "Computer Hardware",
+                    "label": "Hardware",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
