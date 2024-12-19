@@ -64,7 +64,7 @@
         {
             "type": "Button",
             "label": "Contact Us",
-            "altText": "",
+            "altText": "Contact Mekk",
             "url": "/contact",
             "showIcon": false,
             "icon": "arrowRight",
