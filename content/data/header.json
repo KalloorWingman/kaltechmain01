@@ -64,7 +64,7 @@
         {
             "type": "Link",
             "label": "Contact Us",
-            "altText": "About katechtalk",
+            "altText": "Contact Mekk Support",
             "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
