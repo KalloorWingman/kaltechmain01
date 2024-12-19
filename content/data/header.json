@@ -60,6 +60,15 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Link",
+            "label": "About Us",
+            "altText": "About katechtalk",
+            "url": "/about",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
         }
     ],
     "secondaryLinks": [],
