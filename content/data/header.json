@@ -63,7 +63,7 @@
         },
         {
             "type": "Link",
-            "label": "About Us",
+            "label": "Contact Us",
             "altText": "About katechtalk",
             "url": "/about",
             "icon": "arrowRight",
