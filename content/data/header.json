@@ -60,6 +60,40 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "SubNav",
+            "label": "Technology Lessons",
+            "altText": "Technology Topics and News",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Hardware",
+                    "altText": "Computer Hardware Lesson",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary"
+                },
+                {
+                    "type": "Link",
+                    "label": "Software",
+                    "altText": "Computer Software Lesson",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary"
+                },
+                {
+                    "type": "Link",
+                    "label": "Programming",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary"
+                }
+            ],
+            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [],
