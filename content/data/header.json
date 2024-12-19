@@ -65,7 +65,7 @@
             "type": "Link",
             "label": "Contact Us",
             "altText": "Contact Mekk Support",
-            "url": "/about",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
