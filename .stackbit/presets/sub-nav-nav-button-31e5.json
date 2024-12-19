@@ -1,0 +1,58 @@
+{
+    "model": "SubNav",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "nav button",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "nav"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Technology Lessons",
+                "altText": "Technology Topics and News",
+                "links": [
+                    {
+                        "$$type": "Link",
+                        "label": "Hardware",
+                        "altText": "Computer Hardware Lesson",
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Software",
+                        "altText": "Computer Software Lesson",
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "Programming",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    }
+                ],
+                "labelStyle": "secondary"
+            },
+            "thumbnail": "images/sub-nav-nav-button-31e5.png"
+        }
+    ]
+}
