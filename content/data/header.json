@@ -71,7 +71,7 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button",
-            "elementId": "SignUp"
+            "elementId": "Get Lessons"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
