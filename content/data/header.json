@@ -68,7 +68,8 @@
             "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary"
+            "style": "secondary",
+            "elementId": "contactus"
         }
     ],
     "secondaryLinks": [],
