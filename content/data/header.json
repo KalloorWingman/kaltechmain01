@@ -65,7 +65,7 @@
     "secondaryLinks": [
         {
             "label": "Get Lessons",
-            "altText": "Get Started",
+            "altText": "Get Lessons",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
