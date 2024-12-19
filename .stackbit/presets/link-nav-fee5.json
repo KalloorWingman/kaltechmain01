@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Nav",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "nav"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "About Us",
+                "altText": "About katechtalk",
+                "url": "/about",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/link-nav-fee5.png"
+        }
+    ]
+}
