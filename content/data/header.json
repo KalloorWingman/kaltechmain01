@@ -80,7 +80,8 @@
         "self": {
             "padding": [
                 "pr-5",
-                "pt-5"
+                "pt-5",
+                "pl-5"
             ],
             "margin": [
                 "mr-0"
